@@ -7,5 +7,16 @@ public class Aula13_OpTernario {
         String mensagem = (temDinheiro)? "Pede um Ifood": "Fazer comida";
 
         System.out.println(mensagem);
+
+        System.out.println("-------------------");
+
+        if(temDinheiro){
+            System.out.println("Pede um Ifood");
+        }
+        else {
+            System.out.println("Fazer comida");
+        }
+
+
     }
 }
