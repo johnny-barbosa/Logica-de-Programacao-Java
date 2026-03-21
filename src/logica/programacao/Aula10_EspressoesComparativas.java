@@ -1,3 +1,5 @@
+package logica.programacao;
+
 public class Aula10_EspressoesComparativas {
     public static void main(String[] args) {
         int pao = 10;

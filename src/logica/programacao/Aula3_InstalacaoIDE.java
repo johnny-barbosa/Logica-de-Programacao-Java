@@ -1,3 +1,5 @@
+package logica.programacao;
+
 public class Aula3_InstalacaoIDE {
 
     /*

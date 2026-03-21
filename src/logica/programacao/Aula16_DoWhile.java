@@ -1,3 +1,5 @@
+package logica.programacao;
+
 public class Aula16_DoWhile {
     public static void main(String[] args) {
         //raramente util

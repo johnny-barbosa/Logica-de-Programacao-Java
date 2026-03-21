@@ -1,3 +1,5 @@
+package logica.programacao;
+
 public class Aula7_OperadoresAritimeticos {
     public static void main(String[] args) {
         double pao = 9.00;

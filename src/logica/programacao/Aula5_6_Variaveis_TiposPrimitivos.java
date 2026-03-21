@@ -1,3 +1,5 @@
+package logica.programacao;
+
 public class Aula5_6_Variaveis_TiposPrimitivos {
     public static void main(String[] args) {
 

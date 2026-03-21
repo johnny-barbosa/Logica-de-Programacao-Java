@@ -1,3 +1,5 @@
+package logica.programacao;
+
 public class Aula11_OperadoresLogicos {
     public static void main(String[] args) {
 

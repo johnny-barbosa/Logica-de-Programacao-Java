@@ -1,3 +1,5 @@
+package logica.programacao;
+
 public class Aula1_Instrucoes {
 
     /*Aqui apenas avisando sobre o desafio de 3 dias para concluir a playlist

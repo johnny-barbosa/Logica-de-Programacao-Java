@@ -1,3 +1,5 @@
+package logica.programacao;
+
 public class Aula13_OpTernario {
     public static void main(String[] args) {
         //operador ternario

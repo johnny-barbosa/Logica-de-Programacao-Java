@@ -1,3 +1,5 @@
+package logica.programacao;
+
 public class aula15_While {
     public static void main(String[] args) {
         //CUIDADO!!!!

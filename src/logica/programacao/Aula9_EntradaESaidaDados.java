@@ -1,3 +1,5 @@
+package logica.programacao;
+
 import java.util.Scanner;
 
 public class Aula9_EntradaESaidaDados {

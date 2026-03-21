@@ -1,3 +1,5 @@
+package logica.programacao;
+
 public class Aula8_String {
 
     public static void main(String[] args) {

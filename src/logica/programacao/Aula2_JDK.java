@@ -1,3 +1,5 @@
+package logica.programacao;
+
 public class Aula2_JDK {
 
     /*Bem simples e explica varios links para instalação do JDK via msi. ou baixar o zip e colocar nas variaveis de ambiente
