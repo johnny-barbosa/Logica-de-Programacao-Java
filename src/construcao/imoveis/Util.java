@@ -1,4 +1,4 @@
-package orientacao.objeto;
+package construcao.imoveis;
 
 public class Util {
     //jamais alguem faria isso é só para estudo dos metodos staticos

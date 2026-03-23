@@ -1,8 +1,8 @@
-package orientacao.objeto;
+package construcao.imoveis;
 
 
 
-public class PlantaCasa {
+public class PlantaCasa implements Construcao {
     public int metragem;
     public int numeroQuartos;
     public int numeroBanheiros;
@@ -16,7 +16,17 @@ public void construir(){
     System.out.println("Numero de banheiros "+ numeroBanheiros);
     System.out.println("Material "+ material);
 }
-public void pintar(){
+
+    @Override
+    public void pintar(String cor) {
+        System.out.println("Pintando a casa com a cor "+ cor);
+    }
+    @Override
+    public int calcularCustoConstrucao(int custoPorMetro) {
+        return metragem + custoPorMetro;
+    }
+
+    public void pintar(){
     System.out.println("A casa foi pintada de "+ cor);
 }
 

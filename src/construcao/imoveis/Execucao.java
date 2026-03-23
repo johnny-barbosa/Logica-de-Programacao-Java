@@ -1,4 +1,4 @@
-package orientacao.objeto;
+package construcao.imoveis;
 
 public class Execucao {
     public static void main(String[] args) {
